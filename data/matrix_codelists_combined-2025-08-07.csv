@@ -1,0 +1,436 @@
+Code,Description,pheno_20,pheno_21,pheno_24,pheno_25,pheno_27,pheno_28,pheno_29,pheno_30,pheno_31,pheno_34,pheno_36,pheno_15,pheno_17,pheno_05,pheno_09,pheno_11,pheno_12,pheno_01,pheno_02,pheno_13,pheno_16,pheno_33,pheno_37,Person.count.in.SDE,In.Refset
+10091002,High output heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1010444007,Legal abortion complicated by cardiac failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1010447000,Illegal abortion complicated by cardiac failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+101281000119107,Congestive heart failure due to cardiomyopathy (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+10335000,Chronic right-sided heart failure (disorder),1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1275,No
+10519008,Acute pulmonary edema caused by fumes AND/OR vapors (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+10633002,Acute congestive heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,14425,No
+1064941000000106,Heart failure with reduced ejection fraction (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+10674871000119104,Pulmonary edema caused by chemical fumes (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+11016261000119104,Nutritional therapy for congestive heart failure done (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1110931000000103,Quality and Outcomes Framework heart failure quality indicator-related care invitation (procedure),0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,75360,No
+111282000,Acute respiratory insufficiency (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+111283005,Chronic left-sided heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,690,No
+11468004,Postoperative pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1204200007,Left ventricular failure with normal ejection fraction due to valvular heart disease (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,50,No
+1204203009,Left ventricular failure with normal ejection fraction due to coronary arteriosclerosis (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,15,No
+1204204003,Left ventricular failure with normal ejection fraction due to myocarditis (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+1204206001,Left ventricular failure with normal ejection fraction due to cardiomyopathy (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25,No
+1204460007,Myocardial dysfunction with sepsis (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1204462004,Left ventricular failure with sepsis (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,No
+1204468000,Right ventricular failure with sepsis (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+120639003,Hantavirus pulmonary syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+120851000119104,Systolic heart failure stage D (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+120861000119102,Systolic heart failure stage C (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+120871000119108,Systolic heart failure stage B (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+120881000119106,Diastolic heart failure stage D (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1208843003,Right ventricular failure due to heart valve disorder (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,40,No
+1208846006,Right ventricular failure due to disorder of lung (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+1208848007,Right ventricular failure due to disorder of pulmonary circulation (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+1208850004,Right ventricular failure due to right ventricular infarction (disorder),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+120891000119109,Diastolic heart failure stage C (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+120901000119108,Diastolic heart failure stage B (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+12095001,Legal abortion with cardiac arrest AND/OR failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+123620007,Hantanvirus pulmonary syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+1264003007,Acute right ventricular failure following incision of heart (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+128404006,Right heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,4310,No
+134378009,Congestive heart failure monitoring (regime/therapy),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+134401001,Left ventricular systolic dysfunction (disorder),0,0,0,0,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,343275,No
+134440006,Referral to heart failure clinic (procedure),0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,120630,No
+13839000,Bernheim's syndrome (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+151157005,Cardiac failure therapy (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+153931000119109,Acute combined systolic and diastolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+153941000119100,Chronic combined systolic and diastolic heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,40,No
+153951000119103,Acute on chronic combined systolic and diastolic heart failure (disorder),1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15629541000119106,Congestive heart failure stage C due to Ischemic cardiomyopathy (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15629591000119104,Congestive heart failure stage B due to ischemic cardiomyopathy (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15629641000119108,Systolic heart failure stage B due to ischemic cardiomyopathy (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15629741000119102,Systolic heart failure stage C due to ischemic cardiomyopathy (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15964661000119102,Acute cor pulmonale due to septic pulmonary embolism (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+15964701000119108,Acute cor pulmonale co-occurrent and due to saddle embolus of pulmonary artery (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+161505003,History of heart failure (situation),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+16253001,Dilated peripartum cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+16838951000119100,Acute on chronic right-sided congestive heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,145,No
+175112006,Transluminal heart assist operations (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+175115008,Transluminal maintenance of heart assist system (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+175117000,Transluminal removal of heart assist system (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+182826002,Cardiac failure therapy (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+188151000000107,Admit heart failure emergency,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+188171000000103,Referral to heart failure nurse,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+188661000000101,Seen in heart failure clinic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+191651000000108,Admit heart failure emergency,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+191671000000104,Referral to heart failure nurse,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+192161000000108,Seen in heart failure clinic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+19242006,Pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73065,No
+194767001,Benign hypertensive heart disease with congestive cardiac failure (disorder),1,0,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,430,No
+194779001,Hypertensive heart and renal disease with (congestive) heart failure (disorder),1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,75,No
+194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure (disorder),1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,35,No
+194849004,Generalized ischemic myocardial dysfunction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15680,No
+194884000,Acute pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+194887007,Other chronic pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+194889005,Other chronic pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+195020003,Hypertrophic cardiomyopathy without obstruction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+195021004,Primary dilated cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+195031006,Cardiomyopathy in myotonic dystrophy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+195108009,Heart failure: [right] or [congestive] (disorder),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+195111005,Decompensated cardiac failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,44945,No
+195112003,Compensated cardiac failure (disorder),1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,2160,No
+195114002,Acute left ventricular failure (disorder),1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,4165,No
+195548008,[X]Pulmonary heart disease and diseases of pulmonary circulation (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+196151000,Pulmonary insufficiency following shock (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+196152007,Pulmonary insufficiency following surgery (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+196153002,Pulmonary insufficiency following trauma (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+198868006,Cardiac failure following abortive pregnancy (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+200171000000102,Referred by heart failure nurse specialist (finding),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+200201000000101,Discharge from practice nurse heart failure clinic (procedure),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+202131000000103,Heart failure information given to patient (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+202141000000107,Referral to heart failure exercise programme (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+202231000000106,Heart failure review completed (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+202251000000104,Heart failure care plan discussed with patient (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+203791000000106,Referred to heart failure education group (finding),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+20529002,Secondary dilated cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+20606002,Acute bovine pulmonary emphysema AND edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+206586007,Congenital cardiac failure (disorder),1,0,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,6125,No
+207553000,[D]Cardiorespiratory failure (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+207891000000108,Heart failure information given to patient,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+207901000000109,Heart failure information given to patient,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+207911000000106,Referral to heart failure exercise programme,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+207921000000100,Referral to heart failure exercise programme,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+208051000000107,Heart failure review completed,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+208061000000105,Heart failure review completed,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+208091000000104,Heart failure care plan discussed with patient,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+208101000000107,Heart failure care plan discussed with patient,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+211441000000105,Referred to heart failure education group,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+211451000000108,Referred to heart failure education group,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+229491000000106,Open implantation of ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+229511000000103,Open heart assist operations (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232957001,Cardiac support procedure (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232961007,Intraventricular pump support operation (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232962000,Transluminal insertion of intraventricular pump (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232963005,Transluminal maintenance of intraventricular pump (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232965003,Implantation of cardiac ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232966002,Implantation of right cardiac ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232967006,Implantation of left cardiac ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232968001,Implantation of cardiac biventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+232969009,Cardiac support using extracorporeal membrane oxygenation circuitry (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+2334100011910,Congestive heart failure with right heart failure (disorder),1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+23341000119109,Congestive heart failure with right heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233705000,Neurogenic pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233706004,Drug-induced acute pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233707008,High altitude pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233708003,Post-upper airway obstruction pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233709006,Toxic pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233710001,Chemical-induced pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233711002,Oxygen-induced pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233712009,Fluid overload pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233871002,Congestive obstructive cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233873004,Hypertrophic cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+233924009,Heart failure as a complication of care (disorder),1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,430,No
+235581000000105,Open heart assist operations NOS (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+236003008,Cardiac ascites (disorder),1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+238401000000107,Other specified open heart assist operations (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+240629003,Malarial shock lung (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+241974001,Altitude edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+247361000000100,Heart failure 6 month review (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+248381000000108,Heart failure monitoring telephone invitation (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+24841007,Cardiorespiratory failure during AND/OR resulting from a procedure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+248501000000107,Heart failure monitoring verbal invitation (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+248511000000109,Heart failure monitoring first letter (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+248521000000103,Heart failure monitoring second letter (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+248531000000101,Heart failure monitoring third letter (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+250411000000105,Heart failure 6 month review,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+251651000000102,Heart failure monitoring telephone invite,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+251661000000104,Heart failure monitoring verbal invite,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+251671000000106,Heart failure monitoring first letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+251681000000108,Heart failure monitoring second letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+251691000000105,Heart failure monitoring third letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+253041000000107,Heart failure 6 month review,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+25544003,Low output heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+259981000000101,Open heart assist operations,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+259991000000104,Open implantation of ventricular assist device,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+260021000000104,Open heart assist operations NOS,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+266233000,Chronic pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274096000,Pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274631000000105,Heart failure monitoring telephone invite,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274641000000101,Heart failure monitoring verbal invite,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274651000000103,Heart failure monitoring first letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274661000000100,Heart failure monitoring second letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+274671000000107,Heart failure monitoring third letter,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+275514001,Impaired left ventricular function (finding),1,0,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,174820,No
+276514007,Neonatal cardiac failure (disorder),0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+276637009,Hemorrhagic pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+277638005,Sepsis-associated left ventricular failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+277639002,Sepsis-associated right ventricular failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+281170005,Arrhythmogenic right ventricular cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+285211000119102,Congestive heart failure as post-operative complication of cardiac surgery (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+285221000119109,Congestive heart failure as post-operative complication of non-cardiac surgery (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+286952009,Pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+286953004,Other pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+308118002,Cardiac failure therapy (procedure),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+309634009,History of heart failure in last year (situation),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+313389004,No cardiac failure (situation),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+314206003,Refractory heart failure (disorder),1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,130,No
+325431000000103,Congestive heart failure due to valvular disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+33622007,Round heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+33644002,Postvalvulotomy syndrome (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+338101000000107,Congestive heart failure due to valvular disease,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+35728003,Familial cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+359617009,Acute right-sided heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+359620001,Acute right heart failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+360371003,Acute cardiac pulmonary edema (disorder),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+36315003,Malignant hypertensive heart disease without congestive heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,No
+364006,Acute left-sided heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+366784002,Congestive heart failure monitoring (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+366862009,Congestive heart failure monitoring (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+367363000,Right ventricular failure (disorder),1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,12285,No
+36890002,Temporary cardioassist with artificial heart (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+371862006,Depression of left ventricular systolic function (finding),1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+389838008,Heart failure annual review (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+389937002,Heart failure follow-up (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+39028003,Implantation of heart auxiliary ventricle (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390570006,Heart failure annual review (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390671000,Heart failure follow-up (finding),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390771000000106,[X]Pulmonary heart disease and diseases of pulmonary circulation (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390868005,Heart failure screen (procedure),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390884006,Heart failure follow-up (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+390885007,Heart failure annual review (regime/therapy),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+392748002,Heart failure confirmed (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+393703008,Heart failure confirmed (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+394887005,Suspected heart failure (situation),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+394927007,Heart failure excluded (situation),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+395105005,Heart failure confirmed (situation),0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+395172009,No evidence of left ventricular systolic dysfunction (situation),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+395704004,Left ventricular diastolic dysfunction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+399020009,Congestive cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+403298007,Red half-moon nail in congestive heart failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+405276000,Negative pressure pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+40541001,Acute pulmonary edema (disorder),1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+407596008,Echocardiogram shows left ventricular systolic dysfunction (finding),0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,377675,No
+407597004,Echocardiogram shows left ventricular diastolic dysfunction (finding),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48065,No
+407606009,New York Heart Association classification - class II (assessment scale),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+407607000,New York Heart Association classification - class III (assessment scale),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+407608005,New York Heart Association classification - class IV (assessment scale),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+410431009,Cardiorespiratory failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+413164001,No evidence of left ventricular diastolic dysfunction (situation),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+414586001,Left ventricular dysfunction monitoring first letter (procedure),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+414588000,Left ventricular dysfunction monitoring second letter (procedure),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+414589008,Left ventricular dysfunction monitoring third letter (procedure),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+416573008,Left ventricular dysfunction monitoring verbal invite (finding),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+416683003,Emergency hospital admission for heart failure (procedure),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+416717003,Seen in heart failure clinic (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+417146007,Referral to heart failure nurse (procedure),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+417359009,Seen by community heart failure nurse (finding),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+417996009,Systolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+418304008,Diastolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,No
+419038004,Enhanced external counterpulsation (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+420300004,New York Heart Association Classification,0,0,0,0,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,200685,No
+420816009,New York Heart Association Classification (assessment scale),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+420913000,New York Heart Association Classification,0,0,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,146150,No
+421518007,New York Heart Classification finding (finding),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+421704003,New York Heart Association Classification,0,0,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,305065,No
+422293003,New York Heart Association Classification,0,0,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,20270,No
+42343007,Congestive heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,175470,No
+423475008,Heart failure education (procedure),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+424404003,Decompensated chronic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12070,No
+425991000000100,[X]Other specified pulmonary heart diseases (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+426012001,Right heart failure due to pulmonary hypertension (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+426263006,Congestive heart failure due to left ventricular systolic dysfunction (disorder),1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1100,No
+426568003,Open implantation of cardiac ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+426611007,Congestive heart failure due to valvular disease (disorder),1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,2280,No
+429589006,Left ventricular cardiac dysfunction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+429959009,Family history of heart failure (situation),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+430396006,Chronic systolic dysfunction of left ventricle (disorder),0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,240,No
+433305001,Family history of congestive heart failure (situation),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+43736008,Rheumatic left ventricular failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,115,No
+438367009,"Congestive heart failure, hypertension, age 75 years or older, diabetes, and previous stroke or transient ischemic attack risk score (assessment scale)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+440589006,Knowledge level about heart failure management (observable entity),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+44088000,Low cardiac output syndrome (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+441481004,Chronic systolic heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,140,No
+441530006,Chronic diastolic heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1180,No
+44313006,Right heart failure secondary to left heart failure (disorder),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+443253003,Acute on chronic systolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+443254009,Acute systolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+443343001,Acute diastolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+443344007,Acute on chronic diastolic heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+445236007,Cardiorenal syndrome (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+446221000,Heart failure with normal ejection fraction (disorder),1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,81245,No
+45227007,Hypertrophic obstructive cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+45650007,Kyphoscoliotic heart disease (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+46113002,Hypertensive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+462172006,Fetal heart failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+462174007,Fetal heart failure with myocardial hypertrophy (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+462175008,Fetal heart failure with redistribution of cardiac output (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+46847001,Chronic pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,545,No
+471880001,Heart failure due to end stage congenital heart disease (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+473226007,Heart failure medication review (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+48447003,Chronic heart failure (disorder),1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1345,No
+49584005,Acute cor pulmonale (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+501871000000106,[D]Cardiorespiratory failure (situation),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+5053004,Cardiac insufficiency due to prosthesis (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+50781000119109,Nutrition therapy for congestive heart failure (regime/therapy),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+5148006,Hypertensive heart disease with congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+519531000000108,Cardiorenal syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+5375005,Chronic left-sided congestive heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35,No
+54529009,Illegal abortion with cardiac arrest AND/OR failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+55565007,Heart failure following obstetric procedure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+56379006,Abortion with cardiac arrest AND/OR failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+56675007,Acute heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,10300,No
+586171000000108,Transluminal insertion of heart assist system NEC (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+586181000000105,Other specified transluminal heart assist operation (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+588651000000108,Transluminal heart assist operation NOS (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+601601000000109,Acute pulmonary edema unspecified (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+608451000000100,Other chronic pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+60856006,Cardiac insufficiency following cardiac surgery (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+60899001,Hypertensive heart disease without congestive heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,No
+609460008,Induced termination of pregnancy complicated by cardiac arrest and/or failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+609507007,Induced termination of pregnancy complicated by cardiac failure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+609555007,Diastolic heart failure stage A (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+609556008,Systolic heart failure stage A (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+62377009,Postpartum cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+639251000000101,Other heart aid NOS (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+639401000000103,Other chronic pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+64253000,Implantation of heart assist system (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+64715009,Hypertensive heart disease (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14025,No
+653021000000102,Acute pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+66989003,Chronic right-sided congestive heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,160,No
+67189007,Acute pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+673641000000101,Other pulmonary heart disease (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+67431000119105,Congestive heart failure stage D (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+67441000119101,Congestive heart failure stage C (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+67451000119104,Congestive heart failure stage B (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+674814021000119168,Acute respiratory distress syndrome due to disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,No
+67782005,Acute respiratory distress syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+684231000000104,Chronic pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+689201000000109,Pulmonary heart disease NOS (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+697925001,Pulmonary hypertension due to systolic systemic ventricular dysfunction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+697926000,Pulmonary hypertension due to diastolic systemic ventricular dysfunction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+698296002,Acute exacerbation of chronic congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,No
+698592004,Asymptomatic left ventricular systolic dysfunction (disorder),0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,170,No
+698594003,Symptomatic congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+698638005,Pregnancy induced hypertension with pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+698640000,Hypertension in the puerperium with pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+700151002,Temporary implantation of left cardiac ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+700458001,Pulmonary edema due to hypoproteinemia (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+702843005,Congestive heart failure clinic (environment),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+703272007,Heart failure with reduced ejection fraction (disorder),1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,84010,No
+703273002,Heart failure with reduced ejection fraction due to coronary artery disease (disorder),1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+703274008,Heart failure with reduced ejection fraction due to myocarditis (disorder),1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+703275009,Heart failure with reduced ejection fraction due to cardiomyopathy (disorder),1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+703276005,Heart failure with reduced ejection fraction due to heart valve disease (disorder),1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+704095000,Referral to heart failure exercise program (procedure),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+704096004,Referral to heart failure exercise program not indicated (situation),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+704097008,Referral to heart failure exercise program declined (situation),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+704242009,Fetal heart failure due to extracardiac disease (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+708018005,"Assessment using congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category score (procedure)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+711461000000104,Heart failure monitoring invitation (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,70650,No
+713678009,"Congestive heart failure, hypertension, age 75 years or older, diabetes, previous stroke or transient ischemic attack, vascular disease, age 65-74 years, and sex category risk score (assessment scale)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+715621003,Heart failure education not done (situation),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+716621000000101,Heart failure monitoring third letter (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6900,No
+716971000000109,Heart failure monitoring first letter (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,170270,No
+717191000000108,Heart failure monitoring second letter (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,68230,No
+717491000000102,Excepted from heart failure quality indicators - informed dissent (finding),0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,No
+717501000000108,Heart failure monitoring verbal invitation (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7235,No
+717531000000102,Heart failure monitoring telephone invitation (procedure),0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,32200,No
+717840005,Congestive heart failure stage B (disorder),1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+718287008,Provision of written information about heart failure (procedure),0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+71892000,Cardiac asthma (disorder),1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,195,No
+722095005,Acute kidney injury due to circulatory failure (disorder),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+722919003,Neonatal cardiac failure due to decreased left ventricular output (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+724550005,Neonatal cardiac failure due to pulmonary overperfusion (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+72481000119103,Congestive heart failure as early postoperative complication (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+735258002,"Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category score (assessment scale)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+735259005,Congestive heart failure hypertension age 2 diabetes mellitus stroke 2 vascular disease age sex category stroke risk score (observable entity),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1654190,No
+737430008,Congestive heart failure clinical management plan (record artifact),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+7381000175100,Reduced ejection fraction co-occurrent and due to chronic heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+7391000175102,Reduced ejection fraction co-occurrent and due to acute heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+7411000175102,Chronic heart failure co-occurrent with normal ejection fraction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+7421000175106,Acute heart failure co-occurrent with normal ejection fraction (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+74960003,Acute left-sided congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+749821000000101,Heart failure with normal ejection fraction (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+757101000000106,Heart failure with normal ejection fraction,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+760361000000100,Fast track heart failure referral for transthoracic two dimensional echocardiogram (procedure),0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,4195,No
+763007002,Assessment using congestive heart failure hypertension age 75 years or older diabetes mellitus and previous stroke or transient ischemic attack score (procedure),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12640,No
+763008007,Congestive heart failure hypertension age 75 years or older diabetes mellitus and previous stroke or transient ischemic attack score (observable entity),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114960,No
+773587008,X-linked intellectual disability cardiomegaly congestive heart failure syndrome (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+77737007,Benign hypertensive heart disease with congestive heart failure (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+77970009,Benign hypertensive heart disease without congestive heart failure (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,No
+780771000000106,Fast track heart failure referral for transthoracic two dimensional echocardiogram,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+781051000000108,Has heart failure management plan (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+781061000000106,Has heart failure management plan,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+78862003,Ayerza's syndrome (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+788950000,Heart failure with mid range ejection fraction (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10565,No
+789621000000105,Preferred place of care for next exacerbation of heart failure (finding),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+79955004,Chronic cor pulmonale (disorder),1,0,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,6650,No
+80479009,Acute right-sided congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+810971000000105,Heart failure self-management plan review (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+812001000000102,Heart failure self-management plan agreed (finding),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+812011000000100,Heart failure self-management plan agreed,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+812311000000102,Hantavirus pulmonary syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+813991000000101,Education about deteriorating heart failure (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+814001000000106,Education about deteriorating heart failure,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+82523003,Congestive rheumatic heart failure (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+83105008,Malignant hypertensive heart disease with congestive heart failure (disorder),1,0,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,50,No
+832141000000109,Heart failure self-management plan review,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+832441000000100,Hantavirus pulmonary syndrome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+83291003,Cor pulmonale (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+834611000000108,Chemical-induced pulmonary oedema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+834741000000101,Right ventricular failure,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+83521008,Dilated cardiomyopathy caused by alcohol (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+835981000000108,Rehabilitation for heart failure (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+840521002, Acute pulmonary edema caused by fume (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+840522009,Acute pulmonary edema caused by vapor (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+84114007,Heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,759655,No
+848551000000100,Referral to multidisciplinary heart failure team (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+850021000000103,Heart failure clinical pathway,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+851071000000108,Heart failure initial assessment (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+851521000000102,Heart failure clinical pathway (regime/therapy),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+851531000000100,Heart failure clinical pathway,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+85232009,Left heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,154485,No
+85898001,Cardiomyopathy (disorder),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+871617000,Low output heart failure due to and following Fontan operation (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+871681000000102,Heart failure monitoring (regime/therapy),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+872361000000105,Discussion about heart failure care plan (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+873881000000100,Referral to rapid access heart failure clinic (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30860,No
+873891000000103,Referral to rapid access heart failure clinic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+87837008,Chronic pulmonary heart disease (disorder),0,0,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1155,No
+879780004,Telehealth monitoring for chronic heart failure (regime/therapy),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+883031000000100,Temporary implantation of left ventricular assist device (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+88805009,Chronic congestive heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,30850,No
+89555002,Cardiac edema (disorder),1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+89687005,Postimmersion-submersion syndrome (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+89819002,Cardiac insufficiency during AND/OR resulting from a procedure (disorder),0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+898208007,Heart failure due to thyrotoxicosis (disorder),1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,No
+90727007,Pleural effusion due to congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+915571000000102,On optimal heart failure therapy (finding),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+915581000000100,On optimal heart failure therapy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+92506005,Biventricular congestive heart failure (disorder),1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,46210,No
+95437004,Non-cardiogenic pulmonary edema (disorder),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+961881000000101,Provision of information about heart failure (procedure),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+96311000119109,Exacerbation of congestive heart failure (disorder),1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+I099,"Rheumatic heart disease, unspecified",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12110,N/A
+I110,Hypertensive heart disease with (congestive) heart failure,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,35470,N/A
+I130,Hypertensive heart and renal disease with (congestive) heart failure,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,0,8085,N/A
+I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,17635,N/A
+I255,Ischaemic cardiomyopathy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,101580,N/A
+I322,INVALID CODE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,N/A
+I420,Dilated cardiomyopathy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,159220,N/A
+I425,Other restrictive cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3885,N/A
+I426,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16670,N/A
+I427,Cardiomyopathy due to drugs and other external agents,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4700,N/A
+I428,Other cardiomyopathies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,32085,N/A
+I429,"Cardiomyopathy, unspecified",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,138375,N/A
+I43,Cardiomyopathy in diseases classified elsewhere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13330,N/A
+I50_delete,Heart failure,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,4253485,N/A
+I500,Congestive heart failure,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,2486490,N/A
+I500_old_delete,Congestive heart failure,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2486490,N/A
+I501,Left ventricular failure,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1880385,N/A
+I501_old_delete,Left ventricular failure,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1880385,N/A
+I502,Systolic (congestive) heart failure,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,,N/A
+I503,Diastolic (congestive) heart failure,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,,N/A
+I504,Combined systolic (congestive) and diastolic (congestive) heart failure,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,,N/A
+I508,Other heart failure,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,,N/A
+I509,"Heart failure, unspecified",0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1354880,N/A
+I509_old_delete,"Heart failure, unspecified",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1354880,N/A
+P290,Neonatal cardiac failure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5905,N/A
