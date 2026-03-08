@@ -6,9 +6,9 @@ Phenotype libraries such as the HDR UK Phenotype Library and OpenCodelists conta
 
 The goal of this project is to develop methods to:
 
-  quantify similarity between phenotype algorithms based on their code sets
-  identify exact or near duplicate algorithms
-  group related algorithms using clustering approaches
-  help researchers understand differences between algorithms
+-   quantify similarity between phenotype algorithms based on their code sets
+-   identify exact or near duplicate algorithms
+-   group related algorithms using clustering approaches
+-   help researchers understand differences between algorithms
 
 Initial exploration focuses on similarity metrics- Jaccard similarity and unsupervised learning methods to cluster phenotype algorithms based on their associated clinical codes.
